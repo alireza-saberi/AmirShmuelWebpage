@@ -8,4 +8,4 @@ Ali
 
 ## License
 
-The contents of this repository are covered under the [MIT License](LICENSE.txt).
+The contents of this repository are covered under the [MIT License](license.txt).
