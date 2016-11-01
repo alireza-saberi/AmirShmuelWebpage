@@ -5,3 +5,7 @@ I dont have any idea when he will upload it, but I like to have this project on 
 
 Thanks
 Ali
+
+## License
+
+The contents of this repository are covered under the [MIT License](LICENSE.txt).
